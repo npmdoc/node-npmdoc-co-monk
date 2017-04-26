@@ -1,6 +1,6 @@
 # npmdoc-co-monk
 
-#### api documentation for  [co-monk (v1.0.0)](https://github.com/visionmedia/co-monk)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-monk.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-monk) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-monk.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-monk)
+#### basic api documentation for  [co-monk (v1.0.0)](https://github.com/visionmedia/co-monk)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-monk.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-monk) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-monk.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-monk)
 
 #### mongodb generator goodness for co
 
@@ -62,7 +62,8 @@
         "type": "git",
         "url": "git://github.com/visionmedia/co-monk.git"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
